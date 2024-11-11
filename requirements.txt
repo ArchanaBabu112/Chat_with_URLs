@@ -1,0 +1,12 @@
+python-magic
+openai
+unstructured  
+python-magic 
+python-magic-bin
+streamlit
+python-dotenv
+tiktoken
+filetype
+langchain
+langchain-community
+faiss-cpu
